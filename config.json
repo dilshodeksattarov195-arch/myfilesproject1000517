@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefpdate",
+        "uuid": 679338,
+        "checksum": "04zsuo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
